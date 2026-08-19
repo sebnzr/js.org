@@ -3019,6 +3019,7 @@ var cnames_active = {
   "sdh": "sdh.netlify.app",
   "sdjwt": "openwallet-foundation-labs.github.io/sd-jwt-js",
   "sdk-design": "hueitan.github.io/javascript-sdk-design",
+  "sea-bass-ai": "seabass.sebinarza.workers.dev",
   "searchconfig": "tomchen.github.io/searchconfig",
   "season": "seasonjs.github.io/tools",
   "seatbelt": "seatbeltjs.github.io/seatbelt",
